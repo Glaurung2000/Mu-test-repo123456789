@@ -23,7 +23,7 @@ Our robot is a four-wheeled vehicle with differential rotation of the rear wheel
 	
 ![Image](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
 
-- Bottom view/li>
+- Bottom view
 
 ![Image](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
 
