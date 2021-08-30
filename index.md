@@ -9,27 +9,27 @@ Our robot is a four-wheeled vehicle with differential rotation of the rear wheel
 
 - Front view
 	
-![Image of robot1](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
+![Image](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
 
 - Left view
 	
-![Image of robot2](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
+![Image](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
 	
 - Back view
 
-![Image of robot3](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
+![Image](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
 
 - Right view
 	
-![Image of robot4](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
+![Image](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
 
 - Bottom view/li>
 
-![Image of robot5](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
+![Image](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
 
 - View from above
 	
-![Image of robot6](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
+![Image](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
 
 
 
@@ -38,7 +38,7 @@ Our robot is a four-wheeled vehicle with differential rotation of the rear wheel
 
 <h3>OpenMV Cam H7 Plus</h3>
 
-![Image of OpenMV Cam](https://github.com/Glaurung2000/images/blob/master/pinout-openmv-cam-h7-plus-ov5640.png)
+![Image](https://github.com/Glaurung2000/images/blob/master/pinout-openmv-cam-h7-plus-ov5640.png)
 
 <p>The OpenMV Cam is a small, low power, microcontroller board which allows you to easily implement applications using machine vision in the real-world. You program the OpenMV Cam in high level Python scripts (courtesy of the MicroPython Operating System). This makes it easier to deal with the complex outputs of machine vision algorithms and working with high level data structures.</br>
 OpenMV Cam allows us to detect field walls and traffic signs using the find_blobs() function. It finds all blobs (connected pixel regions that pass a threshold test) in the image that is satisfying the given parameters and returns a list of objects which describe each blob. After receiving information about the blobs we get the black area on the right and left sides of the screen, their difference is the deviation from the trajectory of the robot. Then we convert this to the value for the servo motor for turning the angle needed to return to the right trajectory, for this we use function map(), the function proportionally transfers the value(x) from the current range of values (in_min, in_max) to the new range (out_min, out_max) specified by the parameters. Also if function find_blobs() gives us information about green or red blobs then instead of difference between left and right black area we use size and coordinates of the to get value for the servo motor that will help robot get around the red and green traffic signs.</p>
@@ -46,7 +46,7 @@ OpenMV Cam allows us to detect field walls and traffic signs using the find_blob
 
 <h3> Two-channel motor driver DRV8833</h3>
 
-![Image of Motor drive](https://github.com/Glaurung2000/images/blob/master/DRV8833.jpg)
+![Image](https://github.com/Glaurung2000/images/blob/master/DRV8833.jpg)
 
 <p>The DRV8833 driver allows you to drive a brushed motor or a single stepper motor.</br>
 We use it to control the speed and direction of the motor rotation</p>
