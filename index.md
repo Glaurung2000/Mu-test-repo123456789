@@ -9,27 +9,27 @@ Our robot is a four-wheeled vehicle with differential rotation of the rear wheel
 
 - Front view
 	
-![Image of robot1](https://github.com/Glaurung2000/images/blob/master/1.png)
+![Image of robot1](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
 
 - Left view
 	
-![Image of robot2](https://github.com/Glaurung2000/images/blob/master/2.png)
+![Image of robot2](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
 	
 - Back view
 
-![Image of robot3](https://github.com/Glaurung2000/images/blob/master/3.png)
+![Image of robot3](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
 
 - Right view
 	
-![Image of robot4](https://github.com/Glaurung2000/images/blob/master/4.png)
+![Image of robot4](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
 
 - Bottom view/li>
 
-![Image of robot5](https://github.com/Glaurung2000/images/blob/master/5.png)
+![Image of robot5](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
 
 - View from above
 	
-![Image of robot6](https://github.com/Glaurung2000/images/blob/master/6.png)
+![Image of robot6](https://github.com/Glaurung2000/images/blob/master/m1000x10000.png)
 
 
 
