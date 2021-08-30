@@ -53,5 +53,6 @@ We use it to control the speed and direction of the motor rotation</p>
 
 
 <h3>People who worked on this project</h3>
-	- Konstantin Orlik
-	- Korobkina Arina
+
+- Konstantin Orlik
+- Korobkina Arina
