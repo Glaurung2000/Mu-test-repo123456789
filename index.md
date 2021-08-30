@@ -6,31 +6,31 @@ Our robot is a four-wheeled vehicle with differential rotation of the rear wheel
 <p>Rulles of World Robot Olympiad 2021 Future Engineers WRO’s Self-driving vehicle challenge can be found here https://wro-association.org/fileadmin/files/challenges/2021-power-bots-energy/WRO-2021-Future-Engineers-01-Game-Rules.pdf</p>
 
 <h3>Photos of the robot from different sides</h3>
-<ul><li>Front view</li>
+- Front view
 	
 ![Image of robot1](https://github.com/Glaurung2000/images/blob/master/1.png)
 
-<li>Left view</li>
+- Left view
 	
 ![Image of robot2](https://github.com/Glaurung2000/images/blob/master/2.png)
 	
-<li>Back view</li>
+- Back view
 
 ![Image of robot3](https://github.com/Glaurung2000/images/blob/master/3.png)
 
-<li>Right view</li>
+- Right view
 	
 ![Image of robot4](https://github.com/Glaurung2000/images/blob/master/4.png)
 
-<li>Bottom view</li>
+- Bottom view/li>
 
 ![Image of robot5](https://github.com/Glaurung2000/images/blob/master/5.png)
 
-<li>View from above</li>
+- View from above
 	
 ![Image of robot6](https://github.com/Glaurung2000/images/blob/master/6.png)
 
-</ul>
+
 
 <h3>Major Components and Parts</h3>
 <p>To create this robot, special electronic components were needed, namely: engine, Two-channel motor driver DRV8833, servo motor and camera OpenMV Cam H7 Plus. All components are mounted on a plastic frame that has been 3D printed. All photos of the robot, a schematic diagram of electromechanical components and all other materials you can see in our repository.</p>
@@ -52,5 +52,5 @@ We use it to control the speed and direction of the motor rotation</p>
 
 
 <h3>People who worked on this project</h3>
-	<ul><li>Konstantin Orlik</li>
-	<li>Korobkina Arina</li></ul>
+	- Konstantin Orlik
+	- Korobkina Arina
