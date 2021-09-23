@@ -2,4 +2,5 @@
 This is test repository
 Hello world!
 :)
-Test WI-FI connection
+Test WI-FI connection attempt № 01
+Test WI-FI connection attempt № 02
